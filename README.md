@@ -1,0 +1,1 @@
+# Kunsan-University-Dormitory-auto-check
