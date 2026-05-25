@@ -325,7 +325,7 @@ Logging & Exit
 ## 1. Repository Clone
 
 ```bash
-git clone https://github.com/autocheckfromkunsan-art/Kunsan-University-Dormitory-auto-check.git
+git clone https://github.com/autocheckfromkunsanuniversity-dot/Kunsan-University-Dormitory-auto-check.git
 ```
 
 ---
@@ -536,7 +536,7 @@ main.yml
 
 ## 1. GitHub 레포지스토리 접속
 
-https://github.com/autocheckfromkunsan-art/Kunsan-University-Dormitory-auto-check
+https://github.com/autocheckfromkunsanuniversity-dot/Kunsan-University-Dormitory-auto-check
 
 ---
 
